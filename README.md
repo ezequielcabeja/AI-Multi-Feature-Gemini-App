@@ -77,11 +77,12 @@ jogo de adivinhação e conversação com IA usando Google Gemini.
 ---
 
 ## Repository Structure | Estrutura do Repositório
-´´´
+```
   AI-Multi-Feature-Gemini-App/
   ├── app.ipynb
   └── README.md
-´´´
+```
+
 ---
 
 ## 📄 License | Licença
